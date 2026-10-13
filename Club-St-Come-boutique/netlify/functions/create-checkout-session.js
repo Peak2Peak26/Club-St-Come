@@ -32,7 +32,7 @@ const PRODUCTS = {
   'veste-zip-kidz':       { name: 'Veste Zippée (Kidz)',            base: 4500, colors: ['Noir', 'Charbon', 'Gris Sport'] },
   polo:                   { name: 'Polo Golf',                      base: 3900, colors: ['Noir'] },
   tuque:                  { name: 'Tuque',                          base: 2900 },
-  casquette:              { name: 'Casquette',                      base: 2500 },
+  casquette:              { name: 'Casquette',                      base: 2900 },
   thermos:                { name: 'Thermos 20 oz',                  base: 2900 }
 };
 const BIG_SIZES = ['2XL', '3XL', '4XL'];
